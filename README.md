@@ -2,4 +2,4 @@
 ![logo-ime-usp](https://user-images.githubusercontent.com/54452856/122402239-adcc1380-cf53-11eb-9b60-0f09fc0cae9f.png)
 
 # Introducao-a-Ciencia-da-Computacao-com-Python-Parte-1
-Olá, esse repositório foi criado para que eu possa arquivar os exercícios desenvolvidos para o curso Introdução à Ciência da Computação com Python Parte 1 elaborado pelo Departamento de Ciência da Computação do IME da Universidade de São Paulo em parceria com a Coursera.
+Olá, esse repositório foi criado para que eu possa arquivar os exercícios desenvolvidos para o curso Introdução à Ciência da Computação com Python Parte 1 elaborado pelo Departamento de Ciência da Computação do IME da Universidade de São Paulo em parceria com a Coursera. Eu já terminei esse curso, então irei subir tudo de uma vez.
